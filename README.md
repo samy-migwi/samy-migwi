@@ -1,33 +1,21 @@
--Hi, I'm Samy Migwi! 🌟
-
--I'm a data enthusiast with a penchant for machine learning, data analysis, and data science. I wield Python, JavaScript, and FastAPI like a coding wizard, and I have a love affair with Plotly for creating stunning data visualizations. TensorFlow and Keras are my trusted sidekicks for deep learning adventures.
-
--Currently, I’m diving into machine learning projects in 🌾agriculture, 🩺medicine, and ✈️aviation—because saving the world, one algorithm at a time, is kind of my thing. 🚀
-
--When I'm not knee-deep in data, you might find me plotting my next big idea (pun intended). Always eager to develop innovative models, craft insightful visualizations, and stay on the cutting edge of data science and AI trends.
-
-Let's connect and turn coffee into code! ☕💻
-
-
-### Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![Plotly](https://img.shields.io/badge/-Plotly-3D4F6D?logo=plotly&logoColor=white&style=flat-square)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=flat-square)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
-![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat-square)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-003C71?logo=matplotlib&logoColor=white&style=flat-square)
-![FastAPI](https://img.shields.io/badge/-FastAPI-005571?logo=fastapi&logoColor=white&style=flat-square)
-![GeoPandas](https://img.shields.io/badge/-GeoPandas-0F4C81?logo=geopandas&logoColor=white&style=flat-square)
-![spaCy](https://img.shields.io/badge/-spaCy-4A5E77?logo=spacy&logoColor=white&style=flat-square)
-![NLTK](https://img.shields.io/badge/-NLTK-4D6F7E?logo=nltk&logoColor=white&style=flat-square)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-F7D4A1?logo=huggingface&logoColor=white&style=flat-square)
-![Leafmap](https://img.shields.io/badge/-Leafmap-4A9D1D?logo=leaflet&logoColor=white&style=flat-square)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-
-
 
 <!---
 samy-migwi/samy-migwi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# 💫 About Me:
+Hi, I'm Samy Migwi! 🌟<br><br>I'm a data enthusiast with a penchant for machine learning, data analysis, and data science. I wield Python, JavaScript, and FastAPI like a coding wizard, and I have a love affair with Plotly for creating stunning data visualizations. TensorFlow and Keras are my trusted sidekicks for deep learning adventures.<br><br>Currently, I’m diving into machine learning projects in 🌾agriculture, 🩺medicine, and ✈️aviation—because saving the world, one algorithm at a time, is kind of my thing. 🚀<br><br>-When I'm not knee-deep in data, you might find me plotting my next big idea (pun intended). Always eager to develop innovative models, craft insightful visualizations, and stay on the cutting edge of data science and AI trends.<br><br>Let's connect and turn coffee into code! ☕💻
+
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat-square&logo=Adobe%20Audition&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Leafmap](https://img.shields.io/badge/-Leafmap-4A9D1D?logo=leaflet&logoColor=white&style=flat-square)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=samy-migwi&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=samy-migwi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samy-migwi&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=samy-migwi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
